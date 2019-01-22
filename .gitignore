@@ -1,0 +1,5 @@
+#ignore ide
+.idea/
+
+#ignore history
+.byebug_history
